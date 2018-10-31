@@ -1,0 +1,9 @@
+D:\CqrsWithMediatR\CqrsWithMediatR.Models\bin\Debug\netcoreapp2.2\CqrsWithMediatR.Models.deps.json
+D:\CqrsWithMediatR\CqrsWithMediatR.Models\bin\Debug\netcoreapp2.2\CqrsWithMediatR.Models.dll
+D:\CqrsWithMediatR\CqrsWithMediatR.Models\bin\Debug\netcoreapp2.2\CqrsWithMediatR.Models.pdb
+D:\CqrsWithMediatR\CqrsWithMediatR.Models\obj\Debug\netcoreapp2.2\CqrsWithMediatR.Models.csproj.CoreCompileInputs.cache
+D:\CqrsWithMediatR\CqrsWithMediatR.Models\obj\Debug\netcoreapp2.2\CqrsWithMediatR.Models.AssemblyInfoInputs.cache
+D:\CqrsWithMediatR\CqrsWithMediatR.Models\obj\Debug\netcoreapp2.2\CqrsWithMediatR.Models.AssemblyInfo.cs
+D:\CqrsWithMediatR\CqrsWithMediatR.Models\obj\Debug\netcoreapp2.2\CqrsWithMediatR.Models.dll
+D:\CqrsWithMediatR\CqrsWithMediatR.Models\obj\Debug\netcoreapp2.2\CqrsWithMediatR.Models.pdb
+D:\CqrsWithMediatR\CqrsWithMediatR.Models\obj\Debug\netcoreapp2.2\CqrsWithMediatR.Models.csprojAssemblyReference.cache

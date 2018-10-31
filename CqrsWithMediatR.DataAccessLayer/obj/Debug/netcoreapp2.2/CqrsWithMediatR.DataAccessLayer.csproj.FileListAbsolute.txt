@@ -1,0 +1,12 @@
+D:\CqrsWithMediatR\CqrsWithMediatR.DataAccessLayer\obj\Debug\netcoreapp2.2\CqrsWithMediatR.DataAccessLayer.csprojAssemblyReference.cache
+D:\CqrsWithMediatR\CqrsWithMediatR.DataAccessLayer\obj\Debug\netcoreapp2.2\CqrsWithMediatR.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\CqrsWithMediatR\CqrsWithMediatR.DataAccessLayer\obj\Debug\netcoreapp2.2\CqrsWithMediatR.DataAccessLayer.AssemblyInfoInputs.cache
+D:\CqrsWithMediatR\CqrsWithMediatR.DataAccessLayer\obj\Debug\netcoreapp2.2\CqrsWithMediatR.DataAccessLayer.AssemblyInfo.cs
+D:\CqrsWithMediatR\CqrsWithMediatR.DataAccessLayer\bin\Debug\netcoreapp2.2\CqrsWithMediatR.DataAccessLayer.deps.json
+D:\CqrsWithMediatR\CqrsWithMediatR.DataAccessLayer\bin\Debug\netcoreapp2.2\CqrsWithMediatR.DataAccessLayer.dll
+D:\CqrsWithMediatR\CqrsWithMediatR.DataAccessLayer\bin\Debug\netcoreapp2.2\CqrsWithMediatR.DataAccessLayer.pdb
+D:\CqrsWithMediatR\CqrsWithMediatR.DataAccessLayer\bin\Debug\netcoreapp2.2\CqrsWithMediatR.Models.dll
+D:\CqrsWithMediatR\CqrsWithMediatR.DataAccessLayer\bin\Debug\netcoreapp2.2\CqrsWithMediatR.Models.pdb
+D:\CqrsWithMediatR\CqrsWithMediatR.DataAccessLayer\obj\Debug\netcoreapp2.2\CqrsWithMediatR.DataAccessLayer.csproj.CopyComplete
+D:\CqrsWithMediatR\CqrsWithMediatR.DataAccessLayer\obj\Debug\netcoreapp2.2\CqrsWithMediatR.DataAccessLayer.dll
+D:\CqrsWithMediatR\CqrsWithMediatR.DataAccessLayer\obj\Debug\netcoreapp2.2\CqrsWithMediatR.DataAccessLayer.pdb

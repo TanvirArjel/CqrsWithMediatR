@@ -1,0 +1,9 @@
+D:\CqrsWithMediatR\CqrsWithMediatR.ViewModels\bin\Debug\netcoreapp2.2\CqrsWithMediatR.ViewModels.deps.json
+D:\CqrsWithMediatR\CqrsWithMediatR.ViewModels\bin\Debug\netcoreapp2.2\CqrsWithMediatR.ViewModels.dll
+D:\CqrsWithMediatR\CqrsWithMediatR.ViewModels\bin\Debug\netcoreapp2.2\CqrsWithMediatR.ViewModels.pdb
+D:\CqrsWithMediatR\CqrsWithMediatR.ViewModels\obj\Debug\netcoreapp2.2\CqrsWithMediatR.ViewModels.csprojAssemblyReference.cache
+D:\CqrsWithMediatR\CqrsWithMediatR.ViewModels\obj\Debug\netcoreapp2.2\CqrsWithMediatR.ViewModels.csproj.CoreCompileInputs.cache
+D:\CqrsWithMediatR\CqrsWithMediatR.ViewModels\obj\Debug\netcoreapp2.2\CqrsWithMediatR.ViewModels.AssemblyInfoInputs.cache
+D:\CqrsWithMediatR\CqrsWithMediatR.ViewModels\obj\Debug\netcoreapp2.2\CqrsWithMediatR.ViewModels.AssemblyInfo.cs
+D:\CqrsWithMediatR\CqrsWithMediatR.ViewModels\obj\Debug\netcoreapp2.2\CqrsWithMediatR.ViewModels.dll
+D:\CqrsWithMediatR\CqrsWithMediatR.ViewModels\obj\Debug\netcoreapp2.2\CqrsWithMediatR.ViewModels.pdb

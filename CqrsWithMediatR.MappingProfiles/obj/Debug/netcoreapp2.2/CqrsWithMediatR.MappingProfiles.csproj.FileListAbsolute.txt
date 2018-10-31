@@ -1,0 +1,16 @@
+D:\CqrsWithMediatR\CqrsWithMediatR.MappingProfiles\bin\Debug\netcoreapp2.2\CqrsWithMediatR.MappingProfiles.deps.json
+D:\CqrsWithMediatR\CqrsWithMediatR.MappingProfiles\bin\Debug\netcoreapp2.2\CqrsWithMediatR.MappingProfiles.dll
+D:\CqrsWithMediatR\CqrsWithMediatR.MappingProfiles\bin\Debug\netcoreapp2.2\CqrsWithMediatR.MappingProfiles.pdb
+D:\CqrsWithMediatR\CqrsWithMediatR.MappingProfiles\obj\Debug\netcoreapp2.2\CqrsWithMediatR.MappingProfiles.csproj.CoreCompileInputs.cache
+D:\CqrsWithMediatR\CqrsWithMediatR.MappingProfiles\obj\Debug\netcoreapp2.2\CqrsWithMediatR.MappingProfiles.AssemblyInfoInputs.cache
+D:\CqrsWithMediatR\CqrsWithMediatR.MappingProfiles\obj\Debug\netcoreapp2.2\CqrsWithMediatR.MappingProfiles.AssemblyInfo.cs
+D:\CqrsWithMediatR\CqrsWithMediatR.MappingProfiles\obj\Debug\netcoreapp2.2\CqrsWithMediatR.MappingProfiles.dll
+D:\CqrsWithMediatR\CqrsWithMediatR.MappingProfiles\obj\Debug\netcoreapp2.2\CqrsWithMediatR.MappingProfiles.pdb
+D:\CqrsWithMediatR\CqrsWithMediatR.MappingProfiles\obj\Debug\netcoreapp2.2\CqrsWithMediatR.MappingProfiles.csprojAssemblyReference.cache
+D:\CqrsWithMediatR\CqrsWithMediatR.MappingProfiles\bin\Debug\netcoreapp2.2\CqrsWithMediatR.Commands.dll
+D:\CqrsWithMediatR\CqrsWithMediatR.MappingProfiles\bin\Debug\netcoreapp2.2\CqrsWithMediatR.DataAccessLayer.dll
+D:\CqrsWithMediatR\CqrsWithMediatR.MappingProfiles\bin\Debug\netcoreapp2.2\CqrsWithMediatR.Models.dll
+D:\CqrsWithMediatR\CqrsWithMediatR.MappingProfiles\bin\Debug\netcoreapp2.2\CqrsWithMediatR.Commands.pdb
+D:\CqrsWithMediatR\CqrsWithMediatR.MappingProfiles\bin\Debug\netcoreapp2.2\CqrsWithMediatR.Models.pdb
+D:\CqrsWithMediatR\CqrsWithMediatR.MappingProfiles\bin\Debug\netcoreapp2.2\CqrsWithMediatR.DataAccessLayer.pdb
+D:\CqrsWithMediatR\CqrsWithMediatR.MappingProfiles\obj\Debug\netcoreapp2.2\CqrsWithMediatR.MappingProfiles.csproj.CopyComplete
