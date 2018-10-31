@@ -13,6 +13,9 @@ namespace CqrsWithMediatR.Commands.CustomerCommands.CreateCustomer
             RuleFor(x => x.PostalCode).MaximumLength(10).NotEmpty();
             RuleFor(x => x.Country).MaximumLength(15).NotEmpty();
             RuleFor(x => x.Phone).MaximumLength(20).NotEmpty();
+
+            RuleFor(c => c.Country).Matches(@"^[a-zA-Z]+$").WithMessage("Country name should contain only alphabets!");
+            RuleFor(c => c.PostalCode).Matches(@"^\d{4}$").WithMessage("Postal code should be 4 digits!");
         }
     }
 }

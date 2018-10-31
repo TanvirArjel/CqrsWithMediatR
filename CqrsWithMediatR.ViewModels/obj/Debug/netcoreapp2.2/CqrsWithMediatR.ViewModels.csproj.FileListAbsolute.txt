@@ -7,3 +7,12 @@ D:\CqrsWithMediatR\CqrsWithMediatR.ViewModels\obj\Debug\netcoreapp2.2\CqrsWithMe
 D:\CqrsWithMediatR\CqrsWithMediatR.ViewModels\obj\Debug\netcoreapp2.2\CqrsWithMediatR.ViewModels.AssemblyInfo.cs
 D:\CqrsWithMediatR\CqrsWithMediatR.ViewModels\obj\Debug\netcoreapp2.2\CqrsWithMediatR.ViewModels.dll
 D:\CqrsWithMediatR\CqrsWithMediatR.ViewModels\obj\Debug\netcoreapp2.2\CqrsWithMediatR.ViewModels.pdb
+D:\GitHub\CqrsWithMediatR\CqrsWithMediatR.ViewModels\bin\Debug\netcoreapp2.2\CqrsWithMediatR.ViewModels.deps.json
+D:\GitHub\CqrsWithMediatR\CqrsWithMediatR.ViewModels\bin\Debug\netcoreapp2.2\CqrsWithMediatR.ViewModels.dll
+D:\GitHub\CqrsWithMediatR\CqrsWithMediatR.ViewModels\bin\Debug\netcoreapp2.2\CqrsWithMediatR.ViewModels.pdb
+D:\GitHub\CqrsWithMediatR\CqrsWithMediatR.ViewModels\obj\Debug\netcoreapp2.2\CqrsWithMediatR.ViewModels.csprojAssemblyReference.cache
+D:\GitHub\CqrsWithMediatR\CqrsWithMediatR.ViewModels\obj\Debug\netcoreapp2.2\CqrsWithMediatR.ViewModels.csproj.CoreCompileInputs.cache
+D:\GitHub\CqrsWithMediatR\CqrsWithMediatR.ViewModels\obj\Debug\netcoreapp2.2\CqrsWithMediatR.ViewModels.AssemblyInfoInputs.cache
+D:\GitHub\CqrsWithMediatR\CqrsWithMediatR.ViewModels\obj\Debug\netcoreapp2.2\CqrsWithMediatR.ViewModels.AssemblyInfo.cs
+D:\GitHub\CqrsWithMediatR\CqrsWithMediatR.ViewModels\obj\Debug\netcoreapp2.2\CqrsWithMediatR.ViewModels.dll
+D:\GitHub\CqrsWithMediatR\CqrsWithMediatR.ViewModels\obj\Debug\netcoreapp2.2\CqrsWithMediatR.ViewModels.pdb

@@ -12,3 +12,17 @@ D:\CqrsWithMediatR\CqrsWithMediatR.Commands\bin\Debug\netcoreapp2.2\CqrsWithMedi
 D:\CqrsWithMediatR\CqrsWithMediatR.Commands\obj\Debug\netcoreapp2.2\CqrsWithMediatR.Commands.csproj.CopyComplete
 D:\CqrsWithMediatR\CqrsWithMediatR.Commands\obj\Debug\netcoreapp2.2\CqrsWithMediatR.Commands.dll
 D:\CqrsWithMediatR\CqrsWithMediatR.Commands\obj\Debug\netcoreapp2.2\CqrsWithMediatR.Commands.pdb
+D:\GitHub\CqrsWithMediatR\CqrsWithMediatR.Commands\bin\Debug\netcoreapp2.2\CqrsWithMediatR.Commands.deps.json
+D:\GitHub\CqrsWithMediatR\CqrsWithMediatR.Commands\bin\Debug\netcoreapp2.2\CqrsWithMediatR.Commands.dll
+D:\GitHub\CqrsWithMediatR\CqrsWithMediatR.Commands\bin\Debug\netcoreapp2.2\CqrsWithMediatR.Commands.pdb
+D:\GitHub\CqrsWithMediatR\CqrsWithMediatR.Commands\bin\Debug\netcoreapp2.2\CqrsWithMediatR.DataAccessLayer.dll
+D:\GitHub\CqrsWithMediatR\CqrsWithMediatR.Commands\bin\Debug\netcoreapp2.2\CqrsWithMediatR.Models.dll
+D:\GitHub\CqrsWithMediatR\CqrsWithMediatR.Commands\bin\Debug\netcoreapp2.2\CqrsWithMediatR.DataAccessLayer.pdb
+D:\GitHub\CqrsWithMediatR\CqrsWithMediatR.Commands\bin\Debug\netcoreapp2.2\CqrsWithMediatR.Models.pdb
+D:\GitHub\CqrsWithMediatR\CqrsWithMediatR.Commands\obj\Debug\netcoreapp2.2\CqrsWithMediatR.Commands.csprojAssemblyReference.cache
+D:\GitHub\CqrsWithMediatR\CqrsWithMediatR.Commands\obj\Debug\netcoreapp2.2\CqrsWithMediatR.Commands.csproj.CoreCompileInputs.cache
+D:\GitHub\CqrsWithMediatR\CqrsWithMediatR.Commands\obj\Debug\netcoreapp2.2\CqrsWithMediatR.Commands.AssemblyInfoInputs.cache
+D:\GitHub\CqrsWithMediatR\CqrsWithMediatR.Commands\obj\Debug\netcoreapp2.2\CqrsWithMediatR.Commands.AssemblyInfo.cs
+D:\GitHub\CqrsWithMediatR\CqrsWithMediatR.Commands\obj\Debug\netcoreapp2.2\CqrsWithMediatR.Commands.csproj.CopyComplete
+D:\GitHub\CqrsWithMediatR\CqrsWithMediatR.Commands\obj\Debug\netcoreapp2.2\CqrsWithMediatR.Commands.dll
+D:\GitHub\CqrsWithMediatR\CqrsWithMediatR.Commands\obj\Debug\netcoreapp2.2\CqrsWithMediatR.Commands.pdb

@@ -3546,11 +3546,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CqrsWithMediatR\\CqrsWithMediatR.Queries\\CqrsWithMediatR.Queries.csproj",
+      "projectUniqueName": "D:\\GitHub\\CqrsWithMediatR\\CqrsWithMediatR.Queries\\CqrsWithMediatR.Queries.csproj",
       "projectName": "CqrsWithMediatR.Queries",
-      "projectPath": "D:\\CqrsWithMediatR\\CqrsWithMediatR.Queries\\CqrsWithMediatR.Queries.csproj",
+      "projectPath": "D:\\GitHub\\CqrsWithMediatR\\CqrsWithMediatR.Queries\\CqrsWithMediatR.Queries.csproj",
       "packagesPath": "C:\\Users\\TanvirArjel\\.nuget\\packages\\",
-      "outputPath": "D:\\CqrsWithMediatR\\CqrsWithMediatR.Queries\\obj\\",
+      "outputPath": "D:\\GitHub\\CqrsWithMediatR\\CqrsWithMediatR.Queries\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3569,11 +3569,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\CqrsWithMediatR\\CqrsWithMediatR.DataAccessLayer\\CqrsWithMediatR.DataAccessLayer.csproj": {
-              "projectPath": "D:\\CqrsWithMediatR\\CqrsWithMediatR.DataAccessLayer\\CqrsWithMediatR.DataAccessLayer.csproj"
+            "D:\\GitHub\\CqrsWithMediatR\\CqrsWithMediatR.DataAccessLayer\\CqrsWithMediatR.DataAccessLayer.csproj": {
+              "projectPath": "D:\\GitHub\\CqrsWithMediatR\\CqrsWithMediatR.DataAccessLayer\\CqrsWithMediatR.DataAccessLayer.csproj"
             },
-            "D:\\CqrsWithMediatR\\CqrsWithMediatR.Models\\CqrsWithMediatR.Models.csproj": {
-              "projectPath": "D:\\CqrsWithMediatR\\CqrsWithMediatR.Models\\CqrsWithMediatR.Models.csproj"
+            "D:\\GitHub\\CqrsWithMediatR\\CqrsWithMediatR.Models\\CqrsWithMediatR.Models.csproj": {
+              "projectPath": "D:\\GitHub\\CqrsWithMediatR\\CqrsWithMediatR.Models\\CqrsWithMediatR.Models.csproj"
             }
           }
         }

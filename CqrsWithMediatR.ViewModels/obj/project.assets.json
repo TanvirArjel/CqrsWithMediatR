@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CqrsWithMediatR\\CqrsWithMediatR.ViewModels\\CqrsWithMediatR.ViewModels.csproj",
+      "projectUniqueName": "D:\\GitHub\\CqrsWithMediatR\\CqrsWithMediatR.ViewModels\\CqrsWithMediatR.ViewModels.csproj",
       "projectName": "CqrsWithMediatR.ViewModels",
-      "projectPath": "D:\\CqrsWithMediatR\\CqrsWithMediatR.ViewModels\\CqrsWithMediatR.ViewModels.csproj",
+      "projectPath": "D:\\GitHub\\CqrsWithMediatR\\CqrsWithMediatR.ViewModels\\CqrsWithMediatR.ViewModels.csproj",
       "packagesPath": "C:\\Users\\TanvirArjel\\.nuget\\packages\\",
-      "outputPath": "D:\\CqrsWithMediatR\\CqrsWithMediatR.ViewModels\\obj\\",
+      "outputPath": "D:\\GitHub\\CqrsWithMediatR\\CqrsWithMediatR.ViewModels\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

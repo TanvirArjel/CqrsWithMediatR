@@ -13414,11 +13414,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CqrsWithMediatR\\CqrsWithMediatR.Web\\CqrsWithMediatR.Web.csproj",
+      "projectUniqueName": "D:\\GitHub\\CqrsWithMediatR\\CqrsWithMediatR.Web\\CqrsWithMediatR.Web.csproj",
       "projectName": "CqrsWithMediatR.Web",
-      "projectPath": "D:\\CqrsWithMediatR\\CqrsWithMediatR.Web\\CqrsWithMediatR.Web.csproj",
+      "projectPath": "D:\\GitHub\\CqrsWithMediatR\\CqrsWithMediatR.Web\\CqrsWithMediatR.Web.csproj",
       "packagesPath": "C:\\Users\\TanvirArjel\\.nuget\\packages\\",
-      "outputPath": "D:\\CqrsWithMediatR\\CqrsWithMediatR.Web\\obj\\",
+      "outputPath": "D:\\GitHub\\CqrsWithMediatR\\CqrsWithMediatR.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13437,20 +13437,20 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\CqrsWithMediatR\\CqrsWithMediatR.Commands\\CqrsWithMediatR.Commands.csproj": {
-              "projectPath": "D:\\CqrsWithMediatR\\CqrsWithMediatR.Commands\\CqrsWithMediatR.Commands.csproj"
+            "D:\\GitHub\\CqrsWithMediatR\\CqrsWithMediatR.Commands\\CqrsWithMediatR.Commands.csproj": {
+              "projectPath": "D:\\GitHub\\CqrsWithMediatR\\CqrsWithMediatR.Commands\\CqrsWithMediatR.Commands.csproj"
             },
-            "D:\\CqrsWithMediatR\\CqrsWithMediatR.Configurations\\CqrsWithMediatR.Configurations.csproj": {
-              "projectPath": "D:\\CqrsWithMediatR\\CqrsWithMediatR.Configurations\\CqrsWithMediatR.Configurations.csproj"
+            "D:\\GitHub\\CqrsWithMediatR\\CqrsWithMediatR.Configurations\\CqrsWithMediatR.Configurations.csproj": {
+              "projectPath": "D:\\GitHub\\CqrsWithMediatR\\CqrsWithMediatR.Configurations\\CqrsWithMediatR.Configurations.csproj"
             },
-            "D:\\CqrsWithMediatR\\CqrsWithMediatR.DataAccessLayer\\CqrsWithMediatR.DataAccessLayer.csproj": {
-              "projectPath": "D:\\CqrsWithMediatR\\CqrsWithMediatR.DataAccessLayer\\CqrsWithMediatR.DataAccessLayer.csproj"
+            "D:\\GitHub\\CqrsWithMediatR\\CqrsWithMediatR.DataAccessLayer\\CqrsWithMediatR.DataAccessLayer.csproj": {
+              "projectPath": "D:\\GitHub\\CqrsWithMediatR\\CqrsWithMediatR.DataAccessLayer\\CqrsWithMediatR.DataAccessLayer.csproj"
             },
-            "D:\\CqrsWithMediatR\\CqrsWithMediatR.Queries\\CqrsWithMediatR.Queries.csproj": {
-              "projectPath": "D:\\CqrsWithMediatR\\CqrsWithMediatR.Queries\\CqrsWithMediatR.Queries.csproj"
+            "D:\\GitHub\\CqrsWithMediatR\\CqrsWithMediatR.Queries\\CqrsWithMediatR.Queries.csproj": {
+              "projectPath": "D:\\GitHub\\CqrsWithMediatR\\CqrsWithMediatR.Queries\\CqrsWithMediatR.Queries.csproj"
             },
-            "D:\\CqrsWithMediatR\\CqrsWithMediatR.ViewModels\\CqrsWithMediatR.ViewModels.csproj": {
-              "projectPath": "D:\\CqrsWithMediatR\\CqrsWithMediatR.ViewModels\\CqrsWithMediatR.ViewModels.csproj"
+            "D:\\GitHub\\CqrsWithMediatR\\CqrsWithMediatR.ViewModels\\CqrsWithMediatR.ViewModels.csproj": {
+              "projectPath": "D:\\GitHub\\CqrsWithMediatR\\CqrsWithMediatR.ViewModels\\CqrsWithMediatR.ViewModels.csproj"
             }
           }
         }

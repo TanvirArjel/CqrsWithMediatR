@@ -17,7 +17,7 @@ namespace CqrsWithMediatR.Commands.CustomerCommands.CreateCustomer
 
         public async Task<Unit> Handle(CreateCustomerCommand request, CancellationToken cancellationToken)
         {
-            var customer = new Customer
+            Customer customer = new Customer
             {
                 CustomerName = request.CustomerName,
                 Address = request.Address,

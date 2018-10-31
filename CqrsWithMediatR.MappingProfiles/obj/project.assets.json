@@ -8472,11 +8472,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CqrsWithMediatR\\CqrsWithMediatR.MappingProfiles\\CqrsWithMediatR.MappingProfiles.csproj",
+      "projectUniqueName": "D:\\GitHub\\CqrsWithMediatR\\CqrsWithMediatR.MappingProfiles\\CqrsWithMediatR.MappingProfiles.csproj",
       "projectName": "CqrsWithMediatR.MappingProfiles",
-      "projectPath": "D:\\CqrsWithMediatR\\CqrsWithMediatR.MappingProfiles\\CqrsWithMediatR.MappingProfiles.csproj",
+      "projectPath": "D:\\GitHub\\CqrsWithMediatR\\CqrsWithMediatR.MappingProfiles\\CqrsWithMediatR.MappingProfiles.csproj",
       "packagesPath": "C:\\Users\\TanvirArjel\\.nuget\\packages\\",
-      "outputPath": "D:\\CqrsWithMediatR\\CqrsWithMediatR.MappingProfiles\\obj\\",
+      "outputPath": "D:\\GitHub\\CqrsWithMediatR\\CqrsWithMediatR.MappingProfiles\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -8495,11 +8495,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\CqrsWithMediatR\\CqrsWithMediatR.Commands\\CqrsWithMediatR.Commands.csproj": {
-              "projectPath": "D:\\CqrsWithMediatR\\CqrsWithMediatR.Commands\\CqrsWithMediatR.Commands.csproj"
+            "D:\\GitHub\\CqrsWithMediatR\\CqrsWithMediatR.Commands\\CqrsWithMediatR.Commands.csproj": {
+              "projectPath": "D:\\GitHub\\CqrsWithMediatR\\CqrsWithMediatR.Commands\\CqrsWithMediatR.Commands.csproj"
             },
-            "D:\\CqrsWithMediatR\\CqrsWithMediatR.Models\\CqrsWithMediatR.Models.csproj": {
-              "projectPath": "D:\\CqrsWithMediatR\\CqrsWithMediatR.Models\\CqrsWithMediatR.Models.csproj"
+            "D:\\GitHub\\CqrsWithMediatR\\CqrsWithMediatR.Models\\CqrsWithMediatR.Models.csproj": {
+              "projectPath": "D:\\GitHub\\CqrsWithMediatR\\CqrsWithMediatR.Models\\CqrsWithMediatR.Models.csproj"
             }
           }
         }
