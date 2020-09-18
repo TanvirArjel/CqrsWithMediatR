@@ -5,13 +5,18 @@ VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{6BE345A4-C95E-4037-8F7C-05FDE225DB80}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CqrsWithMediatR.Web", "src\CqrsWithMediatR.Web\CqrsWithMediatR.Web.csproj", "{C57D66F6-B06F-4DCB-9ADC-D1E897489C61}"
+EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CqrsWithMediatR.Domain", "src\CqrsWithMediatR.Domain\CqrsWithMediatR.Domain.csproj", "{12D30248-14A2-48DD-904A-B98588379374}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CqrsWithMediatR.Application", "src\CqrsWithMediatR.Application\CqrsWithMediatR.Application.csproj", "{45682AD3-F83E-49D8-916D-2B26778FEED7}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CqrsWithMediatR.Infrastructure", "src\CqrsWithMediatR.Infrastructure\CqrsWithMediatR.Infrastructure.csproj", "{5E0D3C3C-9A7F-4D51-B615-810C2814AEC7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CqrsWithMediatR.Web", "src\CqrsWithMediatR.Web\CqrsWithMediatR.Web.csproj", "{C57D66F6-B06F-4DCB-9ADC-D1E897489C61}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C165EA96-0003-4174-B4DD-AD7451EAC3C9}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,6 +24,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C57D66F6-B06F-4DCB-9ADC-D1E897489C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C57D66F6-B06F-4DCB-9ADC-D1E897489C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C57D66F6-B06F-4DCB-9ADC-D1E897489C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C57D66F6-B06F-4DCB-9ADC-D1E897489C61}.Release|Any CPU.Build.0 = Release|Any CPU
 		{12D30248-14A2-48DD-904A-B98588379374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{12D30248-14A2-48DD-904A-B98588379374}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12D30248-14A2-48DD-904A-B98588379374}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -31,19 +40,15 @@ Global
 		{5E0D3C3C-9A7F-4D51-B615-810C2814AEC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E0D3C3C-9A7F-4D51-B615-810C2814AEC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E0D3C3C-9A7F-4D51-B615-810C2814AEC7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C57D66F6-B06F-4DCB-9ADC-D1E897489C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C57D66F6-B06F-4DCB-9ADC-D1E897489C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C57D66F6-B06F-4DCB-9ADC-D1E897489C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C57D66F6-B06F-4DCB-9ADC-D1E897489C61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{C57D66F6-B06F-4DCB-9ADC-D1E897489C61} = {6BE345A4-C95E-4037-8F7C-05FDE225DB80}
 		{12D30248-14A2-48DD-904A-B98588379374} = {6BE345A4-C95E-4037-8F7C-05FDE225DB80}
 		{45682AD3-F83E-49D8-916D-2B26778FEED7} = {6BE345A4-C95E-4037-8F7C-05FDE225DB80}
 		{5E0D3C3C-9A7F-4D51-B615-810C2814AEC7} = {6BE345A4-C95E-4037-8F7C-05FDE225DB80}
-		{C57D66F6-B06F-4DCB-9ADC-D1E897489C61} = {6BE345A4-C95E-4037-8F7C-05FDE225DB80}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {40630619-AC88-43D7-9DDD-9C20AAB0CCD5}

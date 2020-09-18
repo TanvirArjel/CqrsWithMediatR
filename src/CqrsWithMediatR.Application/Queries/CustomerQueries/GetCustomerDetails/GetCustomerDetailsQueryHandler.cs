@@ -1,8 +1,10 @@
-﻿using System.Threading;
+﻿using System;
+using System.Threading;
 using System.Threading.Tasks;
 using CqrsWithMediatR.Domain.Entities;
 using CqrsWithMediatR.Infrastructure.Data;
 using MediatR;
+using Microsoft.EntityFrameworkCore;
 
 namespace CqrsWithMediatR.Queries.CustomerQueries.GetCustomerDetails
 {
@@ -17,7 +19,12 @@ namespace CqrsWithMediatR.Queries.CustomerQueries.GetCustomerDetails
 
         public async Task<Customer> Handle(GetCustomerDetailsQuery request, CancellationToken cancellationToken)
         {
-            return await _dbContext.Customers.FindAsync(request.CustomerId);
+            if (request == null)
+            {
+                throw new ArgumentNullException(nameof(request));
+            }
+
+            return await _dbContext.Customers.FirstOrDefaultAsync(c => c.CustomerId == request.CustomerId, cancellationToken);
         }
     }
 }

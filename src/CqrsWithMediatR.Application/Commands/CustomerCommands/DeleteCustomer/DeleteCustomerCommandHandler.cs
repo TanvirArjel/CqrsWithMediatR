@@ -1,8 +1,10 @@
-﻿using System.Threading;
+﻿using System;
+using System.Threading;
 using System.Threading.Tasks;
 using CqrsWithMediatR.Domain.Entities;
 using CqrsWithMediatR.Infrastructure.Data;
 using MediatR;
+using Microsoft.EntityFrameworkCore;
 
 namespace CqrsWithMediatR.Application.Commands.CustomerCommands.DeleteCustomer
 {
@@ -16,7 +18,13 @@ namespace CqrsWithMediatR.Application.Commands.CustomerCommands.DeleteCustomer
 
         public async Task<Unit> Handle(DeleteCustomerCommand request, CancellationToken cancellationToken)
         {
-            Customer customerToBeDeleted = await _dbContext.Customers.FindAsync(request.CustomerId);
+            if (request == null)
+            {
+                throw new ArgumentNullException(nameof(request));
+            }
+
+            Customer customerToBeDeleted = await _dbContext.Customers.FirstOrDefaultAsync(c => c.CustomerId == request.CustomerId, cancellationToken);
+
             if (customerToBeDeleted != null)
             {
                 _dbContext.Customers.Remove(customerToBeDeleted);

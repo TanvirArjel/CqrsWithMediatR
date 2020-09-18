@@ -11,6 +11,7 @@ using CqrsWithMediatR.Application.Commands.CustomerCommands.UpdateCustomer;
 using CqrsWithMediatR.Domain.Entities;
 using CqrsWithMediatR.Application.Commands.CustomerCommands.CreateCustomer;
 using CqrsWithMediatR.Application.Commands.CustomerCommands.DeleteCustomer;
+using System;
 
 namespace CqrsWithMediatR.Web.Controllers
 {
@@ -85,6 +86,11 @@ namespace CqrsWithMediatR.Web.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(long id, UpdateCustomerCommand updateCustomerCommand)
         {
+            if (updateCustomerCommand == null)
+            {
+                throw new ArgumentNullException(nameof(updateCustomerCommand));
+            }
+
             if (id != updateCustomerCommand.CustomerId)
             {
                 return NotFound();

@@ -1,6 +1,7 @@
 ﻿using CqrsWithMediatR.Domain.Entities;
 using CqrsWithMediatR.Infrastructure.Data;
 using MediatR;
+using System;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -16,6 +17,11 @@ namespace CqrsWithMediatR.Application.Commands.CustomerCommands.CreateCustomer
 
         public async Task<Unit> Handle(CreateCustomerCommand request, CancellationToken cancellationToken)
         {
+            if (request == null)
+            {
+                throw new ArgumentNullException(nameof(request));
+            }
+
             Customer customer = new Customer
             {
                 CustomerName = request.CustomerName,

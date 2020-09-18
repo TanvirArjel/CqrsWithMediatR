@@ -1,6 +1,8 @@
 ﻿using CqrsWithMediatR.Domain.Entities;
 using CqrsWithMediatR.Infrastructure.Data;
 using MediatR;
+using Microsoft.EntityFrameworkCore;
+using System;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -17,7 +19,12 @@ namespace CqrsWithMediatR.Application.Commands.CustomerCommands.UpdateCustomer
 
         public async Task<Unit> Handle(UpdateCustomerCommand request, CancellationToken cancellationToken)
         {
-            Customer customerToBeUpdated = await _dbContext.Customers.FindAsync(request.CustomerId);
+            if (request == null)
+            {
+                throw new ArgumentNullException(nameof(request));
+            }
+
+            Customer customerToBeUpdated = await _dbContext.Customers.FirstOrDefaultAsync(c => c.CustomerId == request.CustomerId, cancellationToken);
 
             customerToBeUpdated.CustomerName = request.CustomerName;
             customerToBeUpdated.Address = request.Address;
